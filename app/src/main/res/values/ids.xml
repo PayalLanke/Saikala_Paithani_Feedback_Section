@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextDeliveryExperience" type="id" />
+    <item name="submitButton" type="id" />
+    <item name="editTextName" type="id" />
+    <item name="editTextEmail" type="id" />
+    <item name="editTextSuggestions" type="id" />
+    <item name="ratingBar" type="id" />
+    <item name="editTextUserId" type="id" />
+</resources>

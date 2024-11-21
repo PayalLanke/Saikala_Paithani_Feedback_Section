@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="#FFFFFF" /> <!-- White background for input fields -->
+        <corners android:radius="4dp" /> <!-- Slightly rounded corners -->
+    </shape>
+</selector>
